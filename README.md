@@ -8,7 +8,7 @@ installation
 
 Place the files (.tint2rc) in
 
-/home/<username>/.config/tint2
+/home/*username*/.config/tint2
 or wherever your tint2 folder is.
 
 
